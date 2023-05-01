@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    color: #F6416C;
+    background: linear-gradient(#2B2E4A, #2D4059);
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 240px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 6px solid #F6416C;
+}
+
+#event-date {
+    margin: 5px 0 10px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background: #F5F5F5;
+}
+
+#event-opponent {
+    margin: 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background: #F5F5F5;
+}
+
+.event-title {
+    margin-bottom: 10px;
+}
+
+footer {
+    font-style: italic;
+    font-weight: bold;
+    margin: 40px auto 30px;
+}
+
+span {
+    color: #A1EAFB;
+}
