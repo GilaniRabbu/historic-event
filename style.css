@@ -1,8 +1,8 @@
 body {
-    text-align: center;
-    font-family: 'Happy Monkey', cursive;
     color: #F6416C;
     background: linear-gradient(#2B2E4A, #2D4059);
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
 }
 
 #container {
